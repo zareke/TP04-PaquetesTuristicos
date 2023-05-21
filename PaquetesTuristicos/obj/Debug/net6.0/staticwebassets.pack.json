@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PaquetesTuristicos.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PaquetesTuristicos.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\aereo 1.png",
+      "PackagePath": "staticwebassets\\imgs\\aereos\\aereo 1.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\aereo 10.png",
+      "PackagePath": "staticwebassets\\imgs\\aereos\\aereo 10.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\aereo 2.png",
+      "PackagePath": "staticwebassets\\imgs\\aereos\\aereo 2.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\aereo 3.png",
+      "PackagePath": "staticwebassets\\imgs\\aereos\\aereo 3.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\aereo 4.png",
+      "PackagePath": "staticwebassets\\imgs\\aereos\\aereo 4.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\aereo 5.png",
+      "PackagePath": "staticwebassets\\imgs\\aereos\\aereo 5.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\aereo 6.png",
+      "PackagePath": "staticwebassets\\imgs\\aereos\\aereo 6.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\aereo 7.png",
+      "PackagePath": "staticwebassets\\imgs\\aereos\\aereo 7.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\aereo 8.png",
+      "PackagePath": "staticwebassets\\imgs\\aereos\\aereo 8.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\aereo 9.png",
+      "PackagePath": "staticwebassets\\imgs\\aereos\\aereo 9.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\Bariloche.png",
+      "PackagePath": "staticwebassets\\imgs\\excursiones\\Bariloche.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\CABA.png",
+      "PackagePath": "staticwebassets\\imgs\\excursiones\\CABA.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\Calafate.png",
+      "PackagePath": "staticwebassets\\imgs\\excursiones\\Calafate.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\Huamaca.png",
+      "PackagePath": "staticwebassets\\imgs\\excursiones\\Huamaca.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\Iguazu.png",
+      "PackagePath": "staticwebassets\\imgs\\excursiones\\Iguazu.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\Mendoza.png",
+      "PackagePath": "staticwebassets\\imgs\\excursiones\\Mendoza.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\Puerto Madryn.png",
+      "PackagePath": "staticwebassets\\imgs\\excursiones\\Puerto Madryn.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\Salta.png",
+      "PackagePath": "staticwebassets\\imgs\\excursiones\\Salta.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\San Martin de los Andes.png",
+      "PackagePath": "staticwebassets\\imgs\\excursiones\\San Martin de los Andes.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\Ushuaia.png",
+      "PackagePath": "staticwebassets\\imgs\\excursiones\\Ushuaia.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 1.png",
+      "PackagePath": "staticwebassets\\imgs\\hoteles\\imagen 1.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 10.png",
+      "PackagePath": "staticwebassets\\imgs\\hoteles\\imagen 10.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 2.png",
+      "PackagePath": "staticwebassets\\imgs\\hoteles\\imagen 2.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 3.png",
+      "PackagePath": "staticwebassets\\imgs\\hoteles\\imagen 3.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 4.png",
+      "PackagePath": "staticwebassets\\imgs\\hoteles\\imagen 4.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 5.png",
+      "PackagePath": "staticwebassets\\imgs\\hoteles\\imagen 5.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 6.png",
+      "PackagePath": "staticwebassets\\imgs\\hoteles\\imagen 6.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 7.png",
+      "PackagePath": "staticwebassets\\imgs\\hoteles\\imagen 7.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 8.png",
+      "PackagePath": "staticwebassets\\imgs\\hoteles\\imagen 8.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 9.png",
+      "PackagePath": "staticwebassets\\imgs\\hoteles\\imagen 9.png"
+    },
+    {
+      "Id": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PaquetesTuristicos.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PaquetesTuristicos.props",
+      "PackagePath": "build\\PaquetesTuristicos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PaquetesTuristicos.props",
+      "PackagePath": "buildMultiTargeting\\PaquetesTuristicos.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PaquetesTuristicos.props",
+      "PackagePath": "buildTransitive\\PaquetesTuristicos.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>@ViewData["Title"] - TP04 - Nazar</title>
+        <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    </head>
+    <body>
+        <header style="position:absolute; top: 0;">
+           <h1><a href='@Url.Action("Index")'>Paquetes Turisticos ✈</a></h1>
+        </header>
+        <div style="padding:10px 10px 0px 10px;">
+            @RenderBody()
+        </div>
+
+        <footer style="position: absolute; bottom: 0;">
+              <h1>  &copy; @DateTime.Now.Year - Taller de Programación - TP04</h1>
+        </footer>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        @await RenderSectionAsync("Scripts", required: false)
+    </body>
+</html>

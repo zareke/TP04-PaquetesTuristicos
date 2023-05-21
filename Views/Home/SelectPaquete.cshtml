@@ -1,0 +1,82 @@
+@if (ViewBag.Error)
+{
+  <div class="mensajeError">
+    <h1>Oh no! Parece que ese destino ya existe, elija otro</h1>
+  </div>
+}
+
+<h1>CREACION DE UN PAQUETE</h1>
+
+
+
+<form action='@Url.Action("GuardarPaquete")'>
+  <p>Seleccione un destino:</p>
+  <select id="destinos" name="_destino">
+    @for (int i = 0; i < ViewBag.lDestinos.Count; i++)
+    {
+      <option value="@ViewBag.lDestinos[i]">@ViewBag.lDestinos[i]</option>
+    }
+  </select>
+  <p>Seleccione un hotel:</p>
+
+  <div class="contenedorCuadrado">
+    <div class="cuadrado">
+      <label>
+        <input type="radio" value="0" name="_hotel" checked>
+        <img src="@Url.Content("~")/imgs/hoteles/@ViewBag.lImagenes[0]" alt="hotel">
+      </label>
+      @for (int i = 1; i < ViewBag.lImagenes.Count; i++)
+      {
+
+        <label>
+          <input type="radio" value="@i" name="_hotel">
+          <img src="@Url.Content("~")/imgs/hoteles/@ViewBag.lImagenes[i]" alt="hotel">
+        </label>
+
+
+      }
+    </div>
+  </div>
+
+  <p>Seleccione un aereo:</p>
+
+  <div class="contenedorCuadrado">
+    <div class="cuadrado">
+      <label>
+        <input type="radio" value="0" name="_aereo" checked>
+        <img src="@Url.Content("~")/imgs/aereos/@ViewBag.lImagenes[0]" alt="aereo">
+      </label>
+      @for (int i = 1; i < ViewBag.lImagenes.Count; i++)
+      {
+
+
+        <label>
+          <input type="radio" value="@i" name="_aereo">
+          <img src="@Url.Content("~")/imgs/aereos/@ViewBag.lImagenes[i]" alt="aereo">
+        </label>
+
+      }
+    </div>
+  </div>
+  <p>Seleccione una excursion:</p>
+
+  <div class="contenedorCuadrado">
+    <div class="cuadrado">
+      <label>
+        <input type="radio" value="0" name="_excursion" checked>
+        <img src="@Url.Content("~")/imgs/excursiones/@ViewBag.lImagenes[0]" alt="excursion">
+      </label>
+      @for (int i = 1; i < ViewBag.lImagenes.Count; i++)
+      {
+        <label>
+          <input type="radio" value="@i" name="_excursion">
+          <img src="@Url.Content("~")/imgs/excursiones/@ViewBag.lImagenes[i]" alt="excursion">
+        </label>
+
+      }
+    </div>
+  </div>
+  <div class="boton">
+    <input type="submit" value="Enviar">
+  </div>
+</form>
