@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VHe41D9HnHcPkI9Pv4qRMNDKXEmLD5+0DEO8KwYjkmE=",
+  "Hash": "C8kNbzO0wh6kXFDenPHK+1afHvYYtX6ld7RvCLlKH6c=",
   "Source": "PaquetesTuristicos",
   "BasePath": "_content/PaquetesTuristicos",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PaquetesTuristicos\\wwwroot",
       "Source": "PaquetesTuristicos",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PaquetesTuristicos.styles.css",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PaquetesTuristicos.styles.css",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "PaquetesTuristicos.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Descargas\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PaquetesTuristicos.styles.css"
+      "OriginalItemSpec": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PaquetesTuristicos.styles.css"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PaquetesTuristicos.bundle.scp.css",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PaquetesTuristicos.bundle.scp.css",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Computed",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "PaquetesTuristicos.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "E:\\Descargas\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PaquetesTuristicos.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PaquetesTuristicos.bundle.scp.css"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\css\\site.css",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\favicon.ico",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 1.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 1.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/aereos/imagen 1.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\aereos\\imagen 1.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 10.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 10.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/aereos/imagen 10.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\aereos\\imagen 10.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 2.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 2.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/aereos/imagen 2.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\aereos\\imagen 2.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 3.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 3.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/aereos/imagen 3.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\aereos\\imagen 3.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 4.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 4.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/aereos/imagen 4.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\aereos\\imagen 4.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 5.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 5.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/aereos/imagen 5.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\aereos\\imagen 5.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 6.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 6.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/aereos/imagen 6.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\aereos\\imagen 6.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 7.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 7.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/aereos/imagen 7.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\aereos\\imagen 7.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 8.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 8.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/aereos/imagen 8.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\aereos\\imagen 8.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 9.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\aereos\\imagen 9.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/aereos/imagen 9.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\aereos\\imagen 9.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 1.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 1.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/excursiones/imagen 1.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\excursiones\\imagen 1.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 10.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 10.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/excursiones/imagen 10.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\excursiones\\imagen 10.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 2.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 2.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/excursiones/imagen 2.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\excursiones\\imagen 2.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 3.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 3.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/excursiones/imagen 3.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\excursiones\\imagen 3.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 4.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 4.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/excursiones/imagen 4.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\excursiones\\imagen 4.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 5.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 5.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/excursiones/imagen 5.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\excursiones\\imagen 5.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 6.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 6.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/excursiones/imagen 6.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\excursiones\\imagen 6.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 7.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 7.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/excursiones/imagen 7.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\excursiones\\imagen 7.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 8.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 8.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/excursiones/imagen 8.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\excursiones\\imagen 8.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 9.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\excursiones\\imagen 9.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/excursiones/imagen 9.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\excursiones\\imagen 9.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 1.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 1.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/hoteles/imagen 1.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\hoteles\\imagen 1.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 10.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 10.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/hoteles/imagen 10.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\hoteles\\imagen 10.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 2.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 2.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/hoteles/imagen 2.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\hoteles\\imagen 2.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 3.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 3.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/hoteles/imagen 3.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\hoteles\\imagen 3.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 4.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 4.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/hoteles/imagen 4.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\hoteles\\imagen 4.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 5.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 5.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/hoteles/imagen 5.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\hoteles\\imagen 5.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 6.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 6.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/hoteles/imagen 6.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\hoteles\\imagen 6.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 7.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 7.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/hoteles/imagen 7.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\hoteles\\imagen 7.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 8.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 8.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/hoteles/imagen 8.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\imgs\\hoteles\\imagen 8.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 9.png",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\hoteles\\imagen 9.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "imgs/hoteles/imagen 9.png",
       "AssetKind": "All",
@@ -595,10 +595,44 @@
       "OriginalItemSpec": "wwwroot\\imgs\\hoteles\\imagen 9.png"
     },
     {
-      "Identity": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\misc\\añadir.png",
       "SourceId": "PaquetesTuristicos",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Descargas\\PaquetesTuristicos\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
+      "BasePath": "_content/PaquetesTuristicos",
+      "RelativePath": "imgs/misc/añadir.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\misc\\añadir.png"
+    },
+    {
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\imgs\\misc\\remove.png",
+      "SourceId": "PaquetesTuristicos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
+      "BasePath": "_content/PaquetesTuristicos",
+      "RelativePath": "imgs/misc/remove.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\misc\\remove.png"
+    },
+    {
+      "Identity": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\js\\site.js",
+      "SourceId": "PaquetesTuristicos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47696115\\Downloads\\PaquetesTuristicos\\PaquetesTuristicos\\wwwroot\\",
       "BasePath": "_content/PaquetesTuristicos",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

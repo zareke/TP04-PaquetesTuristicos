@@ -4,8 +4,12 @@ namespace PaquetesTuristicos.Controllers;
 
 public class HomeController : Controller
 {
-    public IActionResult Index()
+    public IActionResult Index(string k)
     {
+        Console.WriteLine(k);
+        if(k !=null){
+        ORTWorld.Paquetes.Remove(k);
+        }
         ViewBag.lDestinos = ORTWorld.ListaDestinos;
         ViewBag.dPaquetes = ORTWorld.Paquetes;
         return View();
@@ -31,12 +35,9 @@ public class HomeController : Controller
         Paquete p = new Paquete(ViewBag.lImagenes[_hotel], ViewBag.lImagenes[_aereo], ViewBag.lImagenes[_excursion]);
         if (ORTWorld.IngresarPaquete(_destino, p)) {TempData["error"] = "f"; return RedirectToAction("Index");}
         else{TempData["error"] = "t"; return RedirectToAction("SelectPaquete"); }
-
-            
-
-
-
     }
+
+
 
 
 }

@@ -4,10 +4,12 @@
 <div class="underlinedText">
     <h1>TP 04 - Paquetes Turisticos</h1>
 </div>
-
-<div class="pConMargin">
-    <p>Cliquea <a href='@Url.Action("SelectPaquete","Home")'>aquí</a> para crear un paquete</p>
-</div>
+@if (ViewBag.dPaquetes.Count == 0)
+{
+    <div class="pConMargin">
+        <p>Cliquea en el icono de "+" para crear un paquete</p>
+    </div>
+}
 
 
 
@@ -15,11 +17,26 @@
 {
     <div class="listaPaquetes">
         <div class="paquetesPosicion">
-                <p>Paquete a @k</p>
+            <p>Paquete a @k</p>
+        </div>
+        <div class="paquetesPosicion">
             <img src="@Url.Content("~")/imgs/hoteles/@ViewBag.dPaquetes[k].Hotel" alt="hotel">
             <img src="@Url.Content("~")/imgs/aereos/@ViewBag.dPaquetes[k].Aereo" alt="aereo">
             <img src="@Url.Content("~")/imgs/excursiones/@ViewBag.dPaquetes[k].Excursion" alt="excursion">
+            <form action='@Url.Action("Index")'>
+            <div class="remove">
+                <input type="text" value="@k" name="k">
+                <input type="image"  src="~/imgs/misc/remove.png" alt="remove">
+            </div>
+            </form>
         </div>
     </div>
+
+
+
 }
 
+
+<div class="añadir">
+    <a href='@Url.Action("SelectPaquete","Home")'><img src="~/imgs/misc/añadir.png" alt="añadir"></a>
+</div>
